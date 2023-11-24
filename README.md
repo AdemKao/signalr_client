@@ -237,3 +237,6 @@ I/flutter ( 5248): Sending negotiation request: https://localhost:5000/negotiate
 I/flutter ( 5248): HTTP send: url 'https://localhost:5000/negotiate?negotiateVersion=1', method: 'POST' content: '' content length = '0' 
 headers: '{ content-type: text/plain;charset=UTF-8 }, { HEADER_MOCK_1: HEADER_VALUE_1 }, { X-Requested-With: FlutterHttpClient }, { HEADER_MOCK_2: HEADER_VALUE_2 }, { Authorization: Bearer JWT_TOKEN }'
 ```
+
+### Fork-self 2023/11
+Adding customer header props.
